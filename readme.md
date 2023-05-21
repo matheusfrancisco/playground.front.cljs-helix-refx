@@ -1,6 +1,6 @@
-# helix-refx-playground
-Personal Helix+Refx experiments for a eventual starterkit repo.  
-Heavily inspired by [vloth/reagent-boilerplate](https://github.com/vloth/reagent-boilerplate) and [re-frame/app-structure](https://github.com/day8/re-frame/blob/master/docs/App-Structure.md)
+# playground.front
+
+Place to test some ideas using clojurescript, in this case is using helix and refx
 
 ## Watch Run
 ```bash
@@ -16,4 +16,4 @@ npm run release
 
 ## Demo 
 You can check this sample running in your browser here:  
-http://matheusfrancisco.com.br/helix-refx-playground
+http://matheusfrancisco.com.br/playground.front.cljs-helix-refx
